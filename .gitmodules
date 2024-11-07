@@ -1,3 +1,6 @@
 [submodule "rest-framework-django"]
 	path = rest-framework-django
 	url = https://github.com/manzil-infinity180/Python-Django-Learning
+[submodule "restFrameworkDjango"]
+	path = restFrameworkDjango
+	url = https://github.com/manzil-infinity180/Python-Django-Learning
